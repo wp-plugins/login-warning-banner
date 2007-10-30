@@ -4,7 +4,7 @@ Plugin Name: Login Warning Banner
 Plugin URI: http://www.cutawaysecurity.com/login-warning-banner/
 Description: Adds a Login Warning Banner after the Username and Password fields but before the Login button.
 Author: Don C. Weber
-Version: 0.1
+Version: 0.2
 Author URI: http://www.cutawaysecurity.com/
   
     Copyright 2007  Don C. Weber  

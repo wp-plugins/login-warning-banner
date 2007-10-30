@@ -1,10 +1,10 @@
 === login-warning-banner ===
-Contributors: cutaway
+Contributors: Don C. Weber
 Donate link: N/A
 Tags: login, banner, authentication
 Requires at least: 2.2.3
 Tested up to: 2.2.3
-Stable tag: 0.1
+Stable tag: 0.2
 
 The Login Warning Banner plugin for WordPress allows an administrator to create a custom, pre-authentication, warning header and message.  The plugin supports multicolor text and banner header and messages.
 
@@ -16,9 +16,10 @@ thentication mechanism. By using a pre-authentication Login Warning Banner the b
 ties and potential monitoring pertaining to accessing the resource. For more information please refer
 to the following resources.
 
-    * [CIAC INFORMATION BULLETIN - J-043h: Creating Login Banners] (http://www.ciac.org/ciac/bulletins
+Resources:
+    - [CIAC INFORMATION BULLETIN - J-043h: Creating Login Banners] (http://www.ciac.org/ciac/bulletins
 /j-043.shtml)
-    * [Whitepaper WP-007: Login Warning Banners] (http://www.unixworks.net/papers/wp-007.pdf) by Bob R
+    - [Whitepaper WP-007: Login Warning Banners] (http://www.unixworks.net/papers/wp-007.pdf) by Bob R
 advanovsky
 
 == Installation ==
@@ -37,4 +38,4 @@ advanovsky
 
 == Plugin Location ==
 Website: http://blog.cutawaysecurity.com
-Plugin Download: http://www.cutawaysecurity.com/blog/login-warning-banner.zip
+Plugin Download: http://downloads.wordpress.org/plugin/login-warning-banner.0.1.zip
